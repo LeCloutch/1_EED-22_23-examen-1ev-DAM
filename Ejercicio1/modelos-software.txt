@@ -1,0 +1,6 @@
+Modelos de desarrollo de software:
+
+- Analisis
+- Diseño 
+- Codificacion
+- Pruebas
